@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+/* import React, { useState } from "react";
 import Form from "react-bootstrap/Form";
 import Button from "react-bootstrap/Button";
 import Row from "react-bootstrap/Row";
@@ -14,7 +14,7 @@ import btnStyles from "../../styles/Button.module.css";
 import Asset from "../../components/Asset";
 
 function EventCreateForm() {
-  const [errors, setErrors] = useState({});
+ 
 
   const [eventData, setEventData] = useState({
     eventName: "",
@@ -125,4 +125,4 @@ function EventCreateForm() {
   );
 }
 
-export default EventCreateForm;
+export default EventCreateForm; */
